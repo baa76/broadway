@@ -1,6 +1,7 @@
 html {
   font-family: Helvetica;
   text-align: center;
+  font-size: 14px;
 }
 
 h1 {
@@ -27,6 +28,16 @@ h3 {
   padding: 0;
 }
 
-.header {
-  background-image: url("./resources/the-flatiron-building.png");
+.bkimg {
+  background-image: url("../resources/the-flatiron-building.png");
+  background-position: 10% 50%;
+}
+
+#subheading {
+  color: White;
+}
+
+.header a {
+  font-size: 18px;
+  color: White;
 }
