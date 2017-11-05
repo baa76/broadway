@@ -22,10 +22,20 @@ h3 {
   color: Black;
 }
 
-.navbar {
+a {
+  font-size: 18px;
+  color: White;
+}
+
+.topnavbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.bottomnavbar {
+  background-color: dimgrey;
+  text-align: left;
 }
 
 .bkimg {
@@ -37,7 +47,6 @@ h3 {
   color: White;
 }
 
-.header a {
-  font-size: 18px;
-  color: White;
+#copyright {
+  font-size: 11px
 }
